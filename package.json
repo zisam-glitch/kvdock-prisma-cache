@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-prisma-cache",
+  "version": "1.0.0",
+  "description": "Prisma ORM query results acceleration cache layer using kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.1"
+  },
+  "license": "MIT"
+}
